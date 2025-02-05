@@ -16,7 +16,7 @@
         "top": 72,
         "left": -350,
         "rotate": 0,
-        "attrs": { "value": "300" }
+        "attrs": { "value": "330" }
       },
       {
         "type": "wokwi-resistor",
@@ -24,7 +24,7 @@
         "top": 90,
         "left": -350,
         "rotate": 0,
-        "attrs": { "value": "300" }
+        "attrs": { "value": "330" }
       },
       {
         "type": "wokwi-resistor",
@@ -32,7 +32,7 @@
         "top": 108,
         "left": -350,
         "rotate": 0,
-        "attrs": { "value": "300" }
+        "attrs": { "value": "330" }
       },
       {
         "type": "wokwi-led",
